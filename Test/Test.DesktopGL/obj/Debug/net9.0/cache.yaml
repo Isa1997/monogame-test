@@ -1,0 +1,1105 @@
+Content/Backgrounds/Layer0_0.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Backgrounds/Layer0_0.png: 2026-02-01T20:38:17.8901361Z
+  outputs:
+    Content/Backgrounds/Layer0_0.xnb: 2026-02-01T22:01:22.9687712Z
+Content/Backgrounds/Layer0_1.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Backgrounds/Layer0_1.png: 2026-02-01T20:38:17.8901361Z
+  outputs:
+    Content/Backgrounds/Layer0_1.xnb: 2026-02-01T22:01:23.1307836Z
+Content/Backgrounds/Layer0_2.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Backgrounds/Layer0_2.png: 2026-02-01T20:38:17.9057620Z
+  outputs:
+    Content/Backgrounds/Layer0_2.xnb: 2026-02-01T22:01:23.2707929Z
+Content/Backgrounds/Layer1_0.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Backgrounds/Layer1_0.png: 2026-02-01T20:38:17.9213847Z
+  outputs:
+    Content/Backgrounds/Layer1_0.xnb: 2026-02-01T22:01:23.4098052Z
+Content/Backgrounds/Layer1_1.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Backgrounds/Layer1_1.png: 2026-02-01T20:38:17.9526352Z
+  outputs:
+    Content/Backgrounds/Layer1_1.xnb: 2026-02-01T22:01:23.5398130Z
+Content/Backgrounds/Layer1_2.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Backgrounds/Layer1_2.png: 2026-02-01T20:38:17.9838809Z
+  outputs:
+    Content/Backgrounds/Layer1_2.xnb: 2026-02-01T22:01:23.6411687Z
+Content/Backgrounds/Layer2_0.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Backgrounds/Layer2_0.png: 2026-02-01T20:38:17.9838809Z
+  outputs:
+    Content/Backgrounds/Layer2_0.xnb: 2026-02-01T22:01:23.7631805Z
+Content/Backgrounds/Layer2_1.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Backgrounds/Layer2_1.png: 2026-02-01T20:38:17.9995085Z
+  outputs:
+    Content/Backgrounds/Layer2_1.xnb: 2026-02-01T22:01:23.8591848Z
+Content/Backgrounds/Layer2_2.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Backgrounds/Layer2_2.png: 2026-02-01T20:38:18.0151309Z
+  outputs:
+    Content/Backgrounds/Layer2_2.xnb: 2026-02-01T22:01:23.9291915Z
+Content/Fonts/Hud.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.FontDescriptionImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.FontDescriptionProcessor
+    premultiplyAlpha: true
+    textureFormat: Compressed
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Fonts/Hud.spritefont: 2026-02-01T20:38:18.0151309Z
+  outputs:
+    Content/Fonts/Hud.xnb: 2026-02-01T22:01:24.1357322Z
+Content/Overlays/you_died.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Overlays/you_died.png: 2026-02-01T20:38:18.0776307Z
+  outputs:
+    Content/Overlays/you_died.xnb: 2026-02-01T22:01:24.1907677Z
+Content/Overlays/you_lose.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Overlays/you_lose.png: 2026-02-01T20:38:18.0776307Z
+  outputs:
+    Content/Overlays/you_lose.xnb: 2026-02-01T22:01:24.2257720Z
+Content/Overlays/you_win.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Overlays/you_win.png: 2026-02-01T20:38:18.0932524Z
+  outputs:
+    Content/Overlays/you_win.xnb: 2026-02-01T22:01:24.2627738Z
+Content/Sounds/MonsterKilled.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.WavImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.SoundEffectProcessor
+    quality: Best
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sounds/MonsterKilled.wav: 2026-02-01T20:38:18.0932524Z
+  outputs:
+    Content/Sounds/MonsterKilled.xnb: 2026-02-01T22:01:25.5199897Z
+Content/Sounds/Music.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.Mp3Importer
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.SongProcessor
+    quality: Best
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sounds/Music.mp3: 2026-02-01T20:38:18.2182490Z
+  outputs:
+    Content/Sounds/Music.ogg: 2026-02-01T22:01:27.3972293Z
+    Content/Sounds/Music.xnb: 2026-02-01T22:01:27.4562370Z
+Content/Sounds/PlayerExitReached.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.WavImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.SoundEffectProcessor
+    quality: Best
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sounds/PlayerExitReached.wav: 2026-02-01T20:38:18.2338756Z
+  outputs:
+    Content/Sounds/PlayerExitReached.xnb: 2026-02-01T22:01:27.6976207Z
+Content/Sounds/PlayerFall.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.WavImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.SoundEffectProcessor
+    quality: Best
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sounds/PlayerFall.wav: 2026-02-01T20:38:18.2495024Z
+  outputs:
+    Content/Sounds/PlayerFall.xnb: 2026-02-01T22:01:27.9286650Z
+Content/Sounds/PlayerGemCollected.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.WavImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.SoundEffectProcessor
+    quality: Best
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sounds/PlayerGemCollected.wav: 2026-02-01T20:38:18.2495024Z
+  outputs:
+    Content/Sounds/PlayerGemCollected.xnb: 2026-02-01T22:01:28.1105663Z
+Content/Sounds/PlayerJump.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.WavImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.SoundEffectProcessor
+    quality: Best
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sounds/PlayerJump.wav: 2026-02-01T20:38:18.2651245Z
+  outputs:
+    Content/Sounds/PlayerJump.xnb: 2026-02-01T22:01:28.2742008Z
+Content/Sounds/PlayerKilled.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.WavImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.SoundEffectProcessor
+    quality: Best
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sounds/PlayerKilled.wav: 2026-02-01T20:38:18.2651245Z
+  outputs:
+    Content/Sounds/PlayerKilled.xnb: 2026-02-01T22:01:28.4702161Z
+Content/Sounds/PlayerPowerUp.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.WavImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.SoundEffectProcessor
+    quality: Best
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sounds/PlayerPowerUp.wav: 2026-02-01T20:38:18.3119971Z
+  outputs:
+    Content/Sounds/PlayerPowerUp.xnb: 2026-02-01T22:01:28.7316921Z
+Content/Sprites/MonsterA/Die.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterA/Die.png: 2026-02-01T20:38:18.3588705Z
+  outputs:
+    Content/Sprites/MonsterA/Die.xnb: 2026-02-01T22:01:28.7616912Z
+Content/Sprites/MonsterA/Idle.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterA/Idle.png: 2026-02-01T20:38:18.3588705Z
+  outputs:
+    Content/Sprites/MonsterA/Idle.xnb: 2026-02-01T22:01:28.7910706Z
+Content/Sprites/MonsterA/Run.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterA/Run.png: 2026-02-01T20:38:18.3588705Z
+  outputs:
+    Content/Sprites/MonsterA/Run.xnb: 2026-02-01T22:01:28.8220753Z
+Content/Sprites/MonsterB/Die.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterB/Die.png: 2026-02-01T20:38:18.3588705Z
+  outputs:
+    Content/Sprites/MonsterB/Die.xnb: 2026-02-01T22:01:28.8520758Z
+Content/Sprites/MonsterB/Idle.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterB/Idle.png: 2026-02-01T20:38:18.3588705Z
+  outputs:
+    Content/Sprites/MonsterB/Idle.xnb: 2026-02-01T22:01:28.8810765Z
+Content/Sprites/MonsterB/Run.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterB/Run.png: 2026-02-01T20:38:18.3744947Z
+  outputs:
+    Content/Sprites/MonsterB/Run.xnb: 2026-02-01T22:01:28.9130788Z
+Content/Sprites/MonsterC/Die.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterC/Die.png: 2026-02-01T20:38:18.3744947Z
+  outputs:
+    Content/Sprites/MonsterC/Die.xnb: 2026-02-01T22:01:28.9455735Z
+Content/Sprites/MonsterC/Idle.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterC/Idle.png: 2026-02-01T20:38:18.3744947Z
+  outputs:
+    Content/Sprites/MonsterC/Idle.xnb: 2026-02-01T22:01:28.9735747Z
+Content/Sprites/MonsterC/Run.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterC/Run.png: 2026-02-01T20:38:18.3901208Z
+  outputs:
+    Content/Sprites/MonsterC/Run.xnb: 2026-02-01T22:01:29.0025763Z
+Content/Sprites/MonsterD/Die.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterD/Die.png: 2026-02-01T20:38:18.3901208Z
+  outputs:
+    Content/Sprites/MonsterD/Die.xnb: 2026-02-01T22:01:29.0345789Z
+Content/Sprites/MonsterD/Idle.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterD/Idle.png: 2026-02-01T20:38:18.3901208Z
+  outputs:
+    Content/Sprites/MonsterD/Idle.xnb: 2026-02-01T22:01:29.0625829Z
+Content/Sprites/MonsterD/Run.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/MonsterD/Run.png: 2026-02-01T20:38:18.4057446Z
+  outputs:
+    Content/Sprites/MonsterD/Run.xnb: 2026-02-01T22:01:29.0915861Z
+Content/Sprites/Player/Celebrate.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/Player/Celebrate.png: 2026-02-01T20:38:18.4057446Z
+  outputs:
+    Content/Sprites/Player/Celebrate.xnb: 2026-02-01T22:01:29.1225928Z
+Content/Sprites/Player/Die.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/Player/Die.png: 2026-02-01T20:38:18.4057446Z
+  outputs:
+    Content/Sprites/Player/Die.xnb: 2026-02-01T22:01:29.1615903Z
+Content/Sprites/Player/Idle.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/Player/Idle.png: 2026-02-01T20:38:18.4057446Z
+  outputs:
+    Content/Sprites/Player/Idle.xnb: 2026-02-01T22:01:29.1865946Z
+Content/Sprites/Player/Jump.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/Player/Jump.png: 2026-02-01T20:38:18.4057446Z
+  outputs:
+    Content/Sprites/Player/Jump.xnb: 2026-02-01T22:01:29.2185936Z
+Content/Sprites/Player/Run.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/Player/Run.png: 2026-02-01T20:38:18.4213725Z
+  outputs:
+    Content/Sprites/Player/Run.xnb: 2026-02-01T22:01:29.2496001Z
+Content/Sprites/backpack.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/backpack.png: 2026-02-01T20:38:18.3119971Z
+  outputs:
+    Content/Sprites/backpack.xnb: 2026-02-01T22:01:29.2665964Z
+Content/Sprites/blank.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/blank.png: 2026-02-01T20:38:18.3276229Z
+  outputs:
+    Content/Sprites/blank.xnb: 2026-02-01T22:01:29.2829227Z
+Content/Sprites/Gem.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/Gem.png: 2026-02-01T20:38:18.3432484Z
+  outputs:
+    Content/Sprites/Gem.xnb: 2026-02-01T22:01:29.2997148Z
+Content/Sprites/gradient.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/gradient.png: 2026-02-01T20:38:18.3432484Z
+  outputs:
+    Content/Sprites/gradient.xnb: 2026-02-01T22:01:29.3197150Z
+Content/Sprites/VirtualControlArrow.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Sprites/VirtualControlArrow.png: 2026-02-01T20:38:18.4213725Z
+  outputs:
+    Content/Sprites/VirtualControlArrow.xnb: 2026-02-01T22:01:29.3387174Z
+Content/Tiles/BlockA0.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/BlockA0.png: 2026-02-01T20:38:18.4213725Z
+  outputs:
+    Content/Tiles/BlockA0.xnb: 2026-02-01T22:01:29.3567173Z
+Content/Tiles/BlockA1.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/BlockA1.png: 2026-02-01T20:38:18.4369989Z
+  outputs:
+    Content/Tiles/BlockA1.xnb: 2026-02-01T22:01:29.3727182Z
+Content/Tiles/BlockA2.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/BlockA2.png: 2026-02-01T20:38:18.4369989Z
+  outputs:
+    Content/Tiles/BlockA2.xnb: 2026-02-01T22:01:29.3927217Z
+Content/Tiles/BlockA3.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/BlockA3.png: 2026-02-01T20:38:18.4369989Z
+  outputs:
+    Content/Tiles/BlockA3.xnb: 2026-02-01T22:01:29.4127250Z
+Content/Tiles/BlockA4.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/BlockA4.png: 2026-02-01T20:38:18.4369989Z
+  outputs:
+    Content/Tiles/BlockA4.xnb: 2026-02-01T22:01:29.4317235Z
+Content/Tiles/BlockA5.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/BlockA5.png: 2026-02-01T20:38:18.4369989Z
+  outputs:
+    Content/Tiles/BlockA5.xnb: 2026-02-01T22:01:29.4507240Z
+Content/Tiles/BlockA6.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/BlockA6.png: 2026-02-01T20:38:18.4369989Z
+  outputs:
+    Content/Tiles/BlockA6.xnb: 2026-02-01T22:01:29.4677247Z
+Content/Tiles/BlockB0.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/BlockB0.png: 2026-02-01T20:38:18.4369989Z
+  outputs:
+    Content/Tiles/BlockB0.xnb: 2026-02-01T22:01:29.4857266Z
+Content/Tiles/BlockB1.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/BlockB1.png: 2026-02-01T20:38:18.4526184Z
+  outputs:
+    Content/Tiles/BlockB1.xnb: 2026-02-01T22:01:29.5037283Z
+Content/Tiles/Exit.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/Exit.png: 2026-02-01T20:38:18.4526184Z
+  outputs:
+    Content/Tiles/Exit.xnb: 2026-02-01T22:01:29.5217294Z
+Content/Tiles/Platform.xnb:
+  contentRoot: Content
+  shouldBuild: true
+  importer: !Microsoft.Xna.Framework.Content.Pipeline.TextureImporter
+    version: 3.8.5.0
+  processor: !Microsoft.Xna.Framework.Content.Pipeline.Processors.TextureProcessor
+    colorKeyColor: 255,0,255,255
+    colorKeyEnabled: true
+    generateMipmaps: false
+    premultiplyAlpha: true
+    resizeToPowerOfTwo: false
+    makeSquare: false
+    textureFormat: Color
+    version: 3.8.5.0
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Tiles/Platform.png: 2026-02-01T20:38:18.4526184Z
+  outputs:
+    Content/Tiles/Platform.xnb: 2026-02-01T22:01:29.5387327Z
+Content/Levels/00.txt:
+  contentRoot: Content
+  shouldBuild: false
+  importer: 
+  processor: 
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Levels/00.txt: 2026-02-01T20:38:18.0620067Z
+  outputs:
+    Content/Levels/00.txt: 2026-02-01T20:38:18.0620067Z
+Content/Levels/01.txt:
+  contentRoot: Content
+  shouldBuild: false
+  importer: 
+  processor: 
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Levels/01.txt: 2026-02-01T20:38:18.0620067Z
+  outputs:
+    Content/Levels/01.txt: 2026-02-01T20:38:18.0620067Z
+Content/Levels/02.txt:
+  contentRoot: Content
+  shouldBuild: false
+  importer: 
+  processor: 
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Levels/02.txt: 2026-02-01T20:38:18.0776307Z
+  outputs:
+    Content/Levels/02.txt: 2026-02-01T20:38:18.0776307Z
+Content/Levels/03.txt:
+  contentRoot: Content
+  shouldBuild: false
+  importer: 
+  processor: 
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Levels/03.txt: 2026-02-01T20:38:18.0776307Z
+  outputs:
+    Content/Levels/03.txt: 2026-02-01T20:38:18.0776307Z
+Content/Levels/04.txt:
+  contentRoot: Content
+  shouldBuild: false
+  importer: 
+  processor: 
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Levels/04.txt: 2026-02-01T20:38:18.0776307Z
+  outputs:
+    Content/Levels/04.txt: 2026-02-01T20:38:18.0776307Z
+Content/Levels/05.txt:
+  contentRoot: Content
+  shouldBuild: false
+  importer: 
+  processor: 
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Levels/05.txt: 2026-02-01T20:38:18.0776307Z
+  outputs:
+    Content/Levels/05.txt: 2026-02-01T20:38:18.0776307Z
+Content/Levels/06.txt:
+  contentRoot: Content
+  shouldBuild: false
+  importer: 
+  processor: 
+  compressContent: false
+  graphicsProfile: HiDef
+  dependencies:
+    Levels/06.txt: 2026-02-01T20:38:18.0776307Z
+  outputs:
+    Content/Levels/06.txt: 2026-02-01T20:38:18.0776307Z
